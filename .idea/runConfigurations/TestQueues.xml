@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TestQueues" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="edu.rit.cs.grocerystore.TestQueues" />
+    <module name="cs2-20205-lab9-groceryline" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="edu.rit.cs.grocerystore.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

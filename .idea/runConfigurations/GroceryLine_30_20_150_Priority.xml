@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GroceryLine 30 20 150 Priority" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="edu.rit.cs.grocerystore.GroceryLine" />
+    <module name="cs2-20205-lab9-groceryline" />
+    <option name="PROGRAM_PARAMETERS" value="30 20 150 Priority" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
